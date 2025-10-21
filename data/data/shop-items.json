@@ -1,0 +1,20 @@
+[
+  {
+    "id": "rice1",
+    "name": "Basmati Rice 2kg",
+    "price": 200,
+    "image": "https://images.unsplash.com/photo-1603046891741-9441b0e6b5c3?w=600"
+  },
+  {
+    "id": "oil1",
+    "name": "Cooking Oil 1L",
+    "price": 250,
+    "image": "https://images.unsplash.com/photo-1604908811915-3261a5e2f958?w=600"
+  },
+  {
+    "id": "salt1",
+    "name": "Salt 1kg",
+    "price": 50,
+    "image": "https://images.unsplash.com/photo-1604891453234-b8b94b1f8b2b?w=600"
+  }
+]
