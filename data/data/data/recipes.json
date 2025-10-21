@@ -1,0 +1,31 @@
+[
+  {
+    "id": "beef-pilau",
+    "title": "Beef Pilau",
+    "image": "https://images.unsplash.com/photo-1617196034716-1a9c8b5f4b1b?w=600",
+    "ingredients": [
+      "2 cups Basmati Rice",
+      "150g Beef",
+      "1 tbsp Cooking Oil",
+      "Salt to taste"
+    ],
+    "steps": [
+      "Fry onions in oil until golden.",
+      "Add beef and cook until browned.",
+      "Add rice and water; cook until ready."
+    ],
+    "time": "1 hr"
+  },
+  {
+    "id": "fried-rice",
+    "title": "Vegetable Fried Rice",
+    "image": "https://images.unsplash.com/photo-1601050690597-1b4dce47db4a?w=600",
+    "ingredients": ["Rice", "Vegetables", "Oil", "Salt"],
+    "steps": [
+      "Boil rice.",
+      "Stir-fry vegetables.",
+      "Mix rice with vegetables and season."
+    ],
+    "time": "45 min"
+  }
+]
